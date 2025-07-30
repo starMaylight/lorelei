@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1749533775
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "夕方にしかアルストロメリアでクラフトできないの、面倒だと思いませんか？この光をアルストロメリアに設置するとどの時間帯でもクラフトできるようになります！",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:twilightlight"
+      },
+      "name:8": "黄昏時に照らす光"
+    }
+  },
+  "questID:3": 1627642417,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:twilightlight"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

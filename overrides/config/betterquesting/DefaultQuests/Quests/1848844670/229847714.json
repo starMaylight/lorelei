@@ -1,0 +1,39 @@
+{
+  "preRequisites:11": [
+    1223129003,
+    606943005
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "１００ブロック以上離れた崖の上。岩盤に向かって飛び降りる。躓かなければ新たな世界が見える……かもしれない。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "wizardry:sky_dust"
+      },
+      "name:8": "Infall",
+      "questlogic:8": "OR"
+    }
+  },
+  "questID:3": 229847714,
+  "tasks:9": {
+    "0:10": {
+      "entryLogic:8": "OR",
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "wizardry:unicorn_horn"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "wizardry:fairy_dust"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "wizardry:fairy_wings"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "preRequisites:11": [
+    456886560
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "銃弾は欲しいですよね。安くしときますよ。あ、最初に入ってたものよりは火力が低いですよ？気を付けてくださいね？",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:nether_star"
+      },
+      "name:8": "銃を選んだ人用",
+      "repeattime:3": 10
+    }
+  },
+  "questID:3": 1224831076,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 4,
+          "id:8": "immersiveintelligence:bullet_magazine",
+          "tag:10": {
+            "bullet0:1": 1,
+            "bullets:10": {
+              "dictionary:9": {
+                "0:10": {
+                  "Count:3": 1,
+                  "Damage:2": 0,
+                  "id:8": "immersiveintelligence:bullet_smg_1bcal",
+                  "tag:10": {
+                    "component_nbt:9": {},
+                    "components:9": {},
+                    "core:8": "core_steel",
+                    "core_type:8": "piercing",
+                    "display:10": {
+                      "Name:8": "AM1P/P2 Spitzkopfgeschoss"
+                    },
+                    "fuse:8": "contact"
+                  }
+                }
+              },
+              "inventory:9": {
+                "0:3": 0,
+                "1:3": 0,
+                "2:3": 0,
+                "3:3": 0,
+                "4:3": 0,
+                "5:3": 0,
+                "6:3": 0,
+                "7:3": 0,
+                "8:3": 0,
+                "9:3": 0,
+                "10:3": 0,
+                "11:3": 0,
+                "12:3": 0,
+                "13:3": 0,
+                "14:3": 0,
+                "15:3": 0,
+                "16:3": 0,
+                "17:3": 0,
+                "18:3": 0,
+                "19:3": 0,
+                "20:3": 0,
+                "21:3": 0,
+                "22:3": 0,
+                "23:3": 0,
+                "24:3": 0,
+                "25:3": 0,
+                "26:3": 0,
+                "27:3": 0,
+                "28:3": 0,
+                "29:3": 0,
+                "30:3": 0,
+                "31:3": 0
+              }
+            },
+            "colour0:3": -1,
+            "colour1:3": -1,
+            "colour2:3": -1,
+            "colour3:3": -1
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "consume:1": 1,
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 16,
+          "id:8": "minecraft:gunpowder"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

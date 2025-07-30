@@ -1,0 +1,57 @@
+{
+  "preRequisites:11": [
+    634663555
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "かまどで鉱石、粉を製錬するとナゲットになります。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:furnace"
+      },
+      "name:8": "弱体化されたかまど",
+      "visibility:8": "CHAIN"
+    }
+  },
+  "questID:3": 1033683023,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_engineering"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_artisanry"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_construction"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_provisioning"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_combat"
+        }
+      },
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:furnace"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

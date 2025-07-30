@@ -1,0 +1,55 @@
+{
+  "preRequisites:11": [
+    1819850452
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "杖を作りましょう。色々な魔法に必要な最初の杖です。机を使用してMFをチャージできます。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:aether_wand",
+        "tag:10": {
+          "element:8": "empty",
+          "exp:3": 0,
+          "level:3": 1,
+          "mf:3": 0,
+          "slot:3": 0,
+          "slotCount:3": 3
+        }
+      },
+      "name:8": "魔法の杖！？"
+    }
+  },
+  "questID:3": 2116834925,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "OreDict:8": "aetherWand",
+          "id:8": "sweetmagic:aether_wand",
+          "tag:10": {
+            "element:8": "empty",
+            "exp:3": 0,
+            "level:3": 1,
+            "mf:3": 0,
+            "slot:3": 0,
+            "slotCount:3": 3
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:mftable"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

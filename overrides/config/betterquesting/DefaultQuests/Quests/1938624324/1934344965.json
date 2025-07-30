@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1819850452
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "アクセサリーは自分で制作又はダンジョンで拾うことで入手できます。防具でポーチを装備しているときにポーチ内にアクセサリがあるとtooltipにある効果を発揮します。また、夜の帳は特別で……？",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:veil_darkness"
+      },
+      "name:8": "アクセサリー！"
+    }
+  },
+  "questID:3": 1934344965,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:veil_darkness"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

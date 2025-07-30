@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1043855222
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "液体を混ぜる。金属を混ぜる。新たな合金を目指して。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "embers:mixer"
+      },
+      "name:8": "mixer"
+    }
+  },
+  "questID:3": 1344069057,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "embers:mixer"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

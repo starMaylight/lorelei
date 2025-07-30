@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1567240275
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "sweetmagicは甘いお菓子、及びお花がテーマの魔法modです。おそらく意図的でしょうが、Botaniaにだいぶ似ていますね。まずはクラフトのお花を用意しましょう。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:twilight_alstroemeria"
+      },
+      "name:8": "SweetMagic!"
+    }
+  },
+  "questID:3": 1749533775,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:twilight_alstroemeria"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

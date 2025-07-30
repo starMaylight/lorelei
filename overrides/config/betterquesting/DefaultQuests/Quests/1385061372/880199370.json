@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    750723740
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "色々精錬できる万能人",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "betterwithmods:cooking_pot"
+      },
+      "name:8": "るつぼ"
+    }
+  },
+  "questID:3": 880199370,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterwithmods:cooking_pot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

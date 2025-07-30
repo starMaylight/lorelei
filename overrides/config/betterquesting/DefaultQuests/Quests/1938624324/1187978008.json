@@ -1,0 +1,48 @@
+{
+  "preRequisites:11": [
+    1819850452,
+    83959948
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "MFはSweetMagicで重要なエネルギーです。アイテムを変換するか花瓶を設置することで生産することができます。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:mftank"
+      },
+      "name:8": "MF"
+    }
+  },
+  "questID:3": 1187978008,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:mftank"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:aether_lanp"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:mfchanger"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 32767,
+          "id:8": "sweetmagic:mfpot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

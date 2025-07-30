@@ -1,0 +1,44 @@
+{
+  "preRequisites:11": [
+    950791818
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "面倒なほうの鋼鉄歯車です。地味に重いですが頑張って作りましょう。",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 48,
+        "id:8": "betterwithmods:material"
+      },
+      "name:8": "鋼鉄の歯車"
+    }
+  },
+  "questID:3": 307819911,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 4,
+          "Damage:2": 14,
+          "id:8": "betterwithmods:material"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 48,
+          "OreDict:8": "gearSoulforgedSteel",
+          "id:8": "betterwithmods:material"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    622715923
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Tier2の金床。青銅とは割とすぐにおさらばしてしまおう。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minefantasyreforged:anvil_iron"
+      },
+      "name:8": "鉄の金床",
+      "visibility:8": "CHAIN"
+    }
+  },
+  "questID:3": 2118244681,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:anvil_iron"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

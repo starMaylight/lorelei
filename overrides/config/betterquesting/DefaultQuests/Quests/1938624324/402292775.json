@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    980687325,
+    1602023296
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "64→256",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:magia_light"
+      },
+      "name:8": "範囲拡大！"
+    }
+  },
+  "questID:3": 402292775,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:magia_light"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

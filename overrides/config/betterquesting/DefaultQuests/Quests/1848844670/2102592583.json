@@ -1,0 +1,84 @@
+{
+  "preRequisites:11": [
+    351208054
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "ネジを巻いて耐久を回復する防具を作りましょう。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "clockworkphase:clockwork_chestplate",
+        "tag:10": {
+          "max_tension:3": 0,
+          "tension_energy:3": 0
+        }
+      },
+      "name:8": "ネジマキアーマーズ"
+    }
+  },
+  "questID:3": 2102592583,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:gear_legendary"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:precious_charm"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:mainspring",
+          "tag:10": {
+            "max_tension:3": 1000000,
+            "tension_energy:3": 0
+          }
+        }
+      },
+      "index:3": 1,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:clockwork_headpiece",
+          "tag:10": {
+            "max_tension:3": 0,
+            "tension_energy:3": 0
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:clockwork_chestplate",
+          "tag:10": {
+            "max_tension:3": 0,
+            "tension_energy:3": 0
+          }
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:clockwork_leggings",
+          "tag:10": {
+            "max_tension:3": 0,
+            "tension_energy:3": 0
+          }
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:clockwork_boots",
+          "tag:10": {
+            "max_tension:3": 0,
+            "tension_energy:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

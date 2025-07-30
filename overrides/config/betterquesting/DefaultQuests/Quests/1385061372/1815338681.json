@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    2114577008
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "機械たちの大本であり、インターフェースを拡張する外部パーツでもある。大型機械たちのIO部分に隣接設置してあげれば搬入出が難しい機械も楽に扱える。詳しくはガイドを確認すること。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "embers:mech_core"
+      },
+      "name:8": "機械核",
+      "visibility:8": "CHAIN"
+    }
+  },
+  "questID:3": 1815338681,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "embers:mech_core"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

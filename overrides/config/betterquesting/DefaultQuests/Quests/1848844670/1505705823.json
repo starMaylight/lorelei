@@ -1,0 +1,47 @@
+{
+  "preRequisites:11": [
+    169427764,
+    1223129003
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "液体を貯めよう。",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "ForgeCaps:10": {
+          "Parent:10": {
+            "burnout:6": 0.0,
+            "mana:6": 100.0,
+            "maxMana:6": 100.0,
+            "max_burnout:6": 100.0
+          }
+        },
+        "id:8": "wizardry:orb"
+      },
+      "name:8": "fill"
+    }
+  },
+  "questID:3": 1505705823,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "ForgeCaps:10": {
+            "Parent:10": {
+              "burnout:6": 0.0,
+              "mana:6": 100.0,
+              "maxMana:6": 100.0,
+              "max_burnout:6": 100.0
+            }
+          },
+          "id:8": "wizardry:orb"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

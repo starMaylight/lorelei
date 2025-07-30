@@ -1,0 +1,70 @@
+{
+  "preRequisites:11": [
+    645723031
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Forkと名のついたブロックでは、内部に同じ種類のカタリストを入れ、特定の動作を行うとtime sandを生成します。ここで生成したtime sandはツールを使うことでwell of timeに送ることができます。well of timeにツールを挿入すると内部にたまったtime sandをツールに充填できます。また、バケツで右クリックすると液体として回収できたりもします。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "clockworkphase:extractor_life"
+      },
+      "name:8": "Fork"
+    }
+  },
+  "questID:3": 961404602,
+  "tasks:9": {
+    "0:10": {
+      "entryLogic:8": "OR",
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:extractor_life"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:extractor_light"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:extractor_water"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:extractor_earth"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:extractor_air"
+        },
+        "5:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:extractor_fire"
+        },
+        "6:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:extractor_lunar"
+        },
+        "7:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:extractor_death"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:time_well",
+          "tag:10": {
+            "internal_time_sand:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

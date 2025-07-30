@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    659474753
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "MFを使用して不足しがちなクリスタルを生産できます。\n",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:aether_furnace_bottom"
+      },
+      "name:8": "クリスタルを生成！"
+    }
+  },
+  "questID:3": 1444177791,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:aether_furnace_bottom"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

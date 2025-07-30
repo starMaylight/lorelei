@@ -1,0 +1,56 @@
+{
+  "preRequisites:11": [
+    1806384780
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "最初の一歩はどの世界も変わらない。安住の地を探し出し、拠点を構えて作業ができる環境を整える。ここから全てを始めよう。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:crafting_table"
+      },
+      "name:8": "最初の一歩は変わらない"
+    }
+  },
+  "questID:3": 634663555,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_engineering"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_artisanry"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_construction"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_provisioning"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_combat"
+        }
+      },
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:crafting_table"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

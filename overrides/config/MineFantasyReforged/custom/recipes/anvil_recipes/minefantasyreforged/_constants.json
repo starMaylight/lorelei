@@ -1,0 +1,10 @@
+[
+    {
+        "name": "HUNK_GOLD",
+        "ingredient": {
+            "type": "minecraft:item_nbt",
+            "item": "minefantasyreforged:metal_hunk",
+            "nbt": "{mf_custom_materials:{main_material:\"gold\"}}"
+        }
+    }
+]

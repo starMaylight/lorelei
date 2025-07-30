@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    1645556661
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "次の世界に進むための鍵を作りましょう。ただしこの先は製作途中です。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "abyssalcraft:gatewaykeydl",
+        "tag:10": {}
+      },
+      "name:8": "新たなる鍵"
+    }
+  },
+  "questID:3": 214213594,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:gatewaykeydl",
+          "tag:10": {}
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

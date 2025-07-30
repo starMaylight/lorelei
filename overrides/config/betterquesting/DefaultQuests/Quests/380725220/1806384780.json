@@ -1,0 +1,205 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "多くの世界を巡った。多くのものごとを知った。旅する半神は今を歩む。どこかから聞こえる声を目印に。\n手帳を開き、瞬間を記す。今までの歴史を刻む。今宵刻むのはある歌について。妖精たちが歌う、メドレーのようなもの。\nとある旅人が挑戦した、試練の歌。\n\n文字列をなぞり、門を開く。空間に開いた大きなそれは紫に輝いている。\n私はカバンから取り出した神器とともにその穴へと歩みを進めて行った。",
+      "frame:8": "CIRCLE",
+      "globalshare:1": 1,
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:nether_star"
+      },
+      "name:8": "welcome to Lorelei"
+    }
+  },
+  "questID:3": 1806384780,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "aroma1997sdimension:miningmultitool"
+        },
+        "1:10": {
+          "Count:3": 14,
+          "id:8": "aroma1997sdimension:portalframe"
+        }
+      }
+    },
+    "1:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 1,
+          "ForgeCaps:10": {
+            "Parent:10": {
+              "BackpackInventory:10": {
+                "Items:9": {}
+              },
+              "BackpackInventorySize:3": 27,
+              "LockedSlots:7": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "MemoryItems:10": {
+                "Items:9": {}
+              },
+              "MemoryRespectNBT:7": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "SortType:1": 0,
+              "UUIDLeast:4": -5497604378799030076,
+              "UUIDMost:4": 1547381981223470395,
+              "UpgradeSlots:10": {
+                "Items:9": {}
+              },
+              "UpgradeSlotsSize:3": 1
+            },
+            "retro_sophisticated_backpacks:backpack_capability:10": {
+              "BackpackInventory:10": {
+                "Items:9": {}
+              },
+              "BackpackInventorySize:3": 27,
+              "LockedSlots:7": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "MemoryItems:10": {
+                "Items:9": {}
+              },
+              "MemoryRespectNBT:7": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "SortType:1": 0,
+              "UUIDLeast:4": -4782169165889847923,
+              "UUIDMost:4": -3348578135693768814,
+              "UpgradeSlots:10": {
+                "Items:9": {}
+              },
+              "UpgradeSlotsSize:3": 1
+            }
+          },
+          "id:8": "retro_sophisticated_backpacks:backpack_leather"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 4,
+          "id:8": "thermalexpansion:satchel",
+          "tag:10": {
+            "Accessible:1": 1
+          }
+        }
+      },
+      "index:3": 1,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+	"output": {
+		"item": "randomthings:ingredient",
+		"data": 3
+	},
+	"input": {
+		"item": "randomthings:ingredient",
+		"data": 2
+	},
+	"extraInputs": [
+		{
+			"item": "solar:infused_gold"
+		},
+		{
+			"item": "actuallyadditions:item_crystal",
+			"data": 1
+		},
+		{
+			"item": "dust:crystal",
+			"data": 8
+		}
+	],
+	"harp": false
+}

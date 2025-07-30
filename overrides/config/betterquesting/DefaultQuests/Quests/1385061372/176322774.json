@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    1878816715
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "色々粉砕できる。が、別に特定材料以外の用途には使わない。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "betterwithmods:single_machine"
+      },
+      "name:8": "石臼"
+    }
+  },
+  "questID:3": 176322774,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterwithmods:single_machine"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "betterwithmods:hand_crank"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

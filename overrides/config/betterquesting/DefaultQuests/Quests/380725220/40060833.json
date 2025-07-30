@@ -1,0 +1,76 @@
+{
+  "preRequisites:11": [
+    515405682
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "金は工業。銀は魔術。どちらも重要に変わりはなく、その輝きは人々を魅了する。工魔両方においてこの二種は変わらぬ供給を欲する。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minefantasyreforged:bar",
+        "tag:10": {
+          "mf_custom_materials:10": {
+            "main_material:8": "gold"
+          }
+        }
+      },
+      "name:8": "汎用金属",
+      "visibility:8": "CHAIN"
+    }
+  },
+  "questID:3": 40060833,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_engineering"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_artisanry"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_construction"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_combat"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_provisioning"
+        }
+      },
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:bar",
+          "tag:10": {
+            "mf_custom_materials:10": {
+              "main_material:8": "gold"
+            }
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:bar",
+          "tag:10": {
+            "mf_custom_materials:10": {
+              "main_material:8": "silver"
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "preRequisites:11": [
+    229847714,
+    1446621418
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "悪魔の力、妖精の力を混ぜる。魂に指向性を持たせる。さて、これはどんな素材になるのだろう？HeatCoilの上でじっくり焼き上げる。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "harkenscythe:soumberglass_ingot"
+      },
+      "name:8": "marginal soul"
+    }
+  },
+  "questID:3": 2117759566,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "harkenscythe:soul_soot"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "harkenscythe:soumberglass_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

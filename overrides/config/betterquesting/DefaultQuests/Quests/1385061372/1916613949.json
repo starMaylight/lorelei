@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    2055627891
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "アイテム輸送というか濾過に使用する場合のほうが多い。",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 2,
+        "id:8": "betterwithmods:single_machine"
+      },
+      "name:8": "フィルターホッパー"
+    }
+  },
+  "questID:3": 1916613949,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 2,
+          "id:8": "betterwithmods:single_machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

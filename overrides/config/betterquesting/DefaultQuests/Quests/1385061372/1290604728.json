@@ -1,0 +1,48 @@
+{
+  "preRequisites:11": [
+    1764327831
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "太陽を仰ぎ見る祭壇。レシピが全体的にJEIに存在しない。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "solar:altar"
+      },
+      "name:8": "Alter"
+    }
+  },
+  "questID:3": 1290604728,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 8,
+          "id:8": "minecraft:stone"
+        },
+        "1:10": {
+          "Count:3": 4,
+          "id:8": "solar:silver_ingot"
+        },
+        "2:10": {
+          "Count:3": 4,
+          "id:8": "minecraft:gold_ingot"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "solar:altar"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

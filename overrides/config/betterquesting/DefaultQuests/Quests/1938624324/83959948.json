@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    1749533775
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "魔法を行う前にガイドを作成しましょう。実際にcraftに使ったりもします。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:guide_book"
+      },
+      "name:8": "magicBook"
+    }
+  },
+  "questID:3": 83959948,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "OreDict:8": "recipeBook",
+          "id:8": "sweetmagic:guide_book"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

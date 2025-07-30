@@ -1,0 +1,67 @@
+{
+  "preRequisites:11": [
+    2117759566
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "魂を刈り取る大鎌。それと刈り取った魂を保管するボトル。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "harkenscythe:iron_scythe"
+      },
+      "name:8": "Ego Eater"
+    }
+  },
+  "questID:3": 770650873,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 16,
+          "id:8": "harkenscythe:soul_soot"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "entryLogic:8": "OR",
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "harkenscythe:wooden_scythe"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "harkenscythe:stone_scythe"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "harkenscythe:iron_scythe"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "harkenscythe:diamond_scythe"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "harkenscythe:golden_scythe"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "harkenscythe:basic_essence_keeper"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

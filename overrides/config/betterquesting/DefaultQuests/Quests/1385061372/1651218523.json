@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    1838341065
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Natural AlterはAuraを消費して色々な資源を変換できます。構造物が必要なのでガイドブックを確認してください。",
+      "frame:8": "DIAMOND",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "naturesaura:nature_altar"
+      },
+      "name:8": "祭壇？"
+    }
+  },
+  "questID:3": 1651218523,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "naturesaura:nature_altar"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

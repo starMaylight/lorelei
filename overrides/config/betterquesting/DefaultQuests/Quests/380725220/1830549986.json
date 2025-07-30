@@ -1,0 +1,351 @@
+{
+  "preRequisites:11": [
+    742882056
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "このパック、結構なガイドがあります。中にはガイドを見ないとどうやってもきつい物もあるのでちゃんとガイドは見ましょう。ガイドをまとめられるAkasicTomeを用意しました。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:nether_star"
+      },
+      "name:8": "大量のガイド"
+    }
+  },
+  "questID:3": 1830549986,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "akashictome:tome",
+          "tag:10": {
+            "akashictome:data:10": {
+              "actuallyadditions:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "actuallyadditions:item_booklet",
+                "tag:10": {
+                  "akashictome:definedMod:8": "actuallyadditions"
+                }
+              },
+              "agricraft:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "agricraft:journal",
+                "tag:10": {
+                  "akashictome:definedMod:8": "agricraft"
+                }
+              },
+              "arcanearchives:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "arcanearchives:tome_arcana",
+                "tag:10": {
+                  "Book:8": "arcanearchives:xml/tome.xml",
+                  "akashictome:definedMod:8": "arcanearchives"
+                }
+              },
+              "betterquesting:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "betterquesting:quest_book",
+                "tag:10": {
+                  "akashictome:definedMod:8": "betterquesting"
+                }
+              },
+              "betterwithmods:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "betterwithmods:manual",
+                "tag:10": {
+                  "akashictome:definedMod:8": "betterwithmods"
+                }
+              },
+              "bigreactors:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "patchouli:guide_book",
+                "tag:10": {
+                  "akashictome:definedMod:8": "bigreactors",
+                  "patchouli:book:8": "bigreactors:erguide"
+                }
+              },
+              "bloodarsenal:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "guideapi:bloodarsenal-guide",
+                "tag:10": {
+                  "akashictome:definedMod:8": "bloodarsenal"
+                }
+              },
+              "bloodmagic:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "guideapi:bloodmagic-guide",
+                "tag:10": {
+                  "akashictome:definedMod:8": "bloodmagic"
+                }
+              },
+              "botania:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "botania:lexicon",
+                "tag:10": {
+                  "akashictome:definedMod:8": "botania",
+                  "knowledge.alfheim:1": 1,
+                  "knowledge.dream:1": 1,
+                  "knowledge.forbidden:1": 1,
+                  "knowledge.incorporeal.skytouch:1": 1,
+                  "knowledge.minecraft:1": 1,
+                  "knowledge.relic:1": 1
+                }
+              },
+              "draconicevolution:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "draconicevolution:info_tablet",
+                "tag:10": {
+                  "akashictome:definedMod:8": "draconicevolution"
+                }
+              },
+              "embers:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "embers:codex",
+                "tag:10": {
+                  "akashictome:definedMod:8": "embers"
+                }
+              },
+              "extendedcrafting:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "extendedcrafting:guide",
+                "tag:10": {
+                  "EntryId:3": 5,
+                  "EntryPage:3": 0,
+                  "TopicsPage:3": 0,
+                  "akashictome:definedMod:8": "extendedcrafting",
+                  "akashictome:displayName:8": "Extended Crafting Guide",
+                  "akashictome:is_morphing:1": 1,
+                  "display:10": {
+                    "Name:8": "§rAkashic Tome (§aExtended Crafting Guide§r)"
+                  }
+                }
+              },
+              "extrautils2:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "extrautils2:book",
+                "tag:10": {
+                  "akashictome:definedMod:8": "extrautils2"
+                }
+              },
+              "immersiveengineering:10": {
+                "Count:3": 1,
+                "Damage:2": 3,
+                "id:8": "immersiveengineering:tool",
+                "tag:10": {
+                  "akashictome:definedMod:8": "immersiveengineering"
+                }
+              },
+              "integratedtunnels:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "integrateddynamics:on_the_dynamics_of_integration",
+                "tag:10": {
+                  "akashictome:definedMod:8": "integratedtunnels"
+                }
+              },
+              "magneticraft:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "magneticraft:guide_book",
+                "tag:10": {
+                  "akashictome:definedMod:8": "magneticraft"
+                }
+              },
+              "minefantasyreforged:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "minefantasyreforged:research_book",
+                "tag:10": {
+                  "akashictome:definedMod:8": "minefantasyreforged"
+                }
+              },
+              "naturesaura:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "patchouli:guide_book",
+                "tag:10": {
+                  "akashictome:definedMod:8": "naturesaura",
+                  "patchouli:book:8": "naturesaura:book"
+                }
+              },
+              "nuclearcraft:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "patchouli:guide_book",
+                "tag:10": {
+                  "akashictome:definedMod:8": "nuclearcraft",
+                  "patchouli:book:8": "nuclearcraft:guide"
+                }
+              },
+              "omegacraft:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "omegacraft:guide",
+                "tag:10": {
+                  "akashictome:definedMod:8": "omegacraft",
+                  "akashictome:displayName:8": "Omega Guide",
+                  "akashictome:is_morphing:1": 1,
+                  "display:10": {
+                    "Name:8": "§rAkashic Tome (§aOmega Guide§r)"
+                  }
+                }
+              },
+              "openblocks:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "openblocks:info_book",
+                "tag:10": {
+                  "akashictome:definedMod:8": "openblocks"
+                }
+              },
+              "opencomputers:10": {
+                "Count:3": 1,
+                "Damage:2": 4,
+                "id:8": "opencomputers:tool",
+                "tag:10": {
+                  "akashictome:definedMod:8": "opencomputers"
+                }
+              },
+              "planttech2:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "planttech2:guide_overview",
+                "tag:10": {
+                  "akashictome:definedMod:8": "planttech2"
+                }
+              },
+              "planttech21:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "planttech2:guide_plants",
+                "tag:10": {
+                  "akashictome:definedMod:8": "planttech21"
+                }
+              },
+              "planttech22:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "planttech2:guide_genetic_engineering",
+                "tag:10": {
+                  "akashictome:definedMod:8": "planttech22"
+                }
+              },
+              "qmd:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "patchouli:guide_book",
+                "tag:10": {
+                  "akashictome:definedMod:8": "qmd",
+                  "patchouli:book:8": "qmd:guide"
+                }
+              },
+              "refraction:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "refraction:book",
+                "tag:10": {
+                  "akashictome:definedMod:8": "refraction",
+                  "akashictome:displayName:8": "Information Tablet",
+                  "akashictome:is_morphing:1": 1,
+                  "display:10": {
+                    "Name:8": "§rAkashic Tome (§aInformation Tablet§r)"
+                  }
+                }
+              },
+              "rftools:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "rftools:rftools_manual",
+                "tag:10": {
+                  "akashictome:definedMod:8": "rftools"
+                }
+              },
+              "solar:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "solar:journal",
+                "tag:10": {
+                  "akashictome:definedMod:8": "solar"
+                }
+              },
+              "spiceoflife:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "spiceoflife:bookfoodjournal",
+                "tag:10": {
+                  "akashictome:definedMod:8": "spiceoflife"
+                }
+              },
+              "sweetmagic:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "sweetmagic:guide_book",
+                "tag:10": {
+                  "akashictome:definedMod:8": "sweetmagic",
+                  "akashictome:displayName:8": "「スイートマジック」ガイドブック",
+                  "akashictome:is_morphing:1": 1,
+                  "display:10": {
+                    "Name:8": "§rAkashic Tome (§a「スイートマジック」ガイドブック§r)"
+                  }
+                }
+              },
+              "theaurorian:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "patchouli:guide_book",
+                "tag:10": {
+                  "akashictome:definedMod:8": "theaurorian",
+                  "akashictome:displayName:8": "The Aurorian Guide",
+                  "akashictome:is_morphing:1": 1,
+                  "display:10": {
+                    "Name:8": "§rAkashic Tome (§aThe Aurorian Guide§r)"
+                  },
+                  "patchouli:book:8": "theaurorian:the_aurorian_guide"
+                }
+              },
+              "wizardry:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "wizardry:book",
+                "tag:10": {
+                  "akashictome:definedMod:8": "wizardry"
+                }
+              },
+              "xnet:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "xnet:xnet_manual",
+                "tag:10": {
+                  "akashictome:definedMod:8": "xnet"
+                }
+              }
+            },
+            "akashictome:is_morphing:1": 1
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

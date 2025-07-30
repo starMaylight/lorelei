@@ -1,0 +1,11 @@
+{
+	"output": {
+		"item": "dust:crystal",
+		"data": 8
+	},
+	"input": {
+		"type": "forge:ore_dict",
+		"ore": "gemCrystal"
+	},
+	"explode": true
+}

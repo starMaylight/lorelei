@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1819850452
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "祭壇をアップグレードします。なお、下に敷くものが変わったり周りにブロックが必要だったりするのでくわしくはがいどをよんでください。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:altar_creat"
+      },
+      "name:8": "アップグレード！"
+    }
+  },
+  "questID:3": 980687325,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:altar_creat"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

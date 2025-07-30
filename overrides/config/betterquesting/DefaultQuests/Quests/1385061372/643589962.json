@@ -1,0 +1,40 @@
+{
+  "preRequisites:11": [
+    2133682884
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "空ボトルを所持した状態でカラテゾンビを倒すと入手できます。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "betterwithaddons:ancestry_bottle"
+      },
+      "name:8": "空手とボトル"
+    }
+  },
+  "questID:3": 643589962,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterwithaddons:ancestry_bottle"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterwithaddons:ancestry_bottle"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

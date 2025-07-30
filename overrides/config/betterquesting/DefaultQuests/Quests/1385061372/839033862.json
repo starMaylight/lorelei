@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1489681363
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "きらきら光る 森の恵みよ",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "naturesaura:gold_powder"
+      },
+      "name:8": "金の粉"
+    }
+  },
+  "questID:3": 839033862,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "naturesaura:gold_powder"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

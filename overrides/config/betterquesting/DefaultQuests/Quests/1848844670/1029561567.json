@@ -1,0 +1,44 @@
+{
+  "preRequisites:11": [
+    1948747332
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "倉庫ですが割と使いづらい部類です。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "correlated:controller"
+      },
+      "name:8": "high technology"
+    }
+  },
+  "questID:3": 1029561567,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "correlated:controller"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "correlated:terminal"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "correlated:drive_bay"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "correlated:memory_bay"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "correlated:interface"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

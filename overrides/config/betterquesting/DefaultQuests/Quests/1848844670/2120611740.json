@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    181932386
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "素材です。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "abyssalcraft:platec"
+      },
+      "name:8": "コラリウムプレート"
+    }
+  },
+  "questID:3": 2120611740,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:platec"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

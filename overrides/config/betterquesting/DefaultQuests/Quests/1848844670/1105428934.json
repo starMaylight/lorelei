@@ -1,0 +1,40 @@
+{
+  "preRequisites:11": [
+    369606608
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "鉄を魂で染め上げよう。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "harkenscythe:livingmetal_ingot"
+      },
+      "name:8": "リビングメタル"
+    }
+  },
+  "questID:3": 1105428934,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 4,
+          "id:8": "harkenscythe:livingmetal_ingot"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 8,
+          "id:8": "harkenscythe:livingmetal_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

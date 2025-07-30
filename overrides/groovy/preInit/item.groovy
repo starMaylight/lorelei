@@ -1,0 +1,5 @@
+def hpss = content.createItem('hardmode_reward')
+def Tabss = content.createCreativeTab("lorelei.creative_tab", hpss)
+content.setDefaultCreativeTab(Tabss)
+hpss.register()
+content.createFluid('brass').setMetalTexture().setColor(0xFFFF00).setLavaMaterial().register()

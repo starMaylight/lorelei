@@ -1,0 +1,57 @@
+{
+  "preRequisites:11": [
+    295456678
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Tier1の金床。tier1の道具を作れる。金属の本番はここから始まる。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minefantasyreforged:anvil_bronze"
+      },
+      "name:8": "青銅の金床",
+      "visibility:8": "CHAIN"
+    }
+  },
+  "questID:3": 622715923,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 5,
+          "id:8": "minefantasyreforged:skillbook_engineering"
+        },
+        "1:10": {
+          "Count:3": 5,
+          "id:8": "minefantasyreforged:skillbook_artisanry"
+        },
+        "2:10": {
+          "Count:3": 5,
+          "id:8": "minefantasyreforged:skillbook_construction"
+        },
+        "3:10": {
+          "Count:3": 5,
+          "id:8": "minefantasyreforged:skillbook_combat"
+        },
+        "4:10": {
+          "Count:3": 5,
+          "id:8": "minefantasyreforged:skillbook_provisioning"
+        }
+      },
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:anvil_bronze"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

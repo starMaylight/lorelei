@@ -1,0 +1,41 @@
+{
+  "preRequisites:11": [
+    1815338681
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Emberを掘る。Mechanical powerまたは燃料が必要。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "embers:ember_bore"
+      },
+      "name:8": "Ember bore",
+      "visibility:8": "CHAIN"
+    }
+  },
+  "questID:3": 256965222,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 16,
+          "id:8": "embers:crystal_ember"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "embers:ember_bore"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

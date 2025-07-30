@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    2147373423
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "原木から作れるようになりました。",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "minecraft:coal"
+      },
+      "name:8": "木炭"
+    }
+  },
+  "questID:3": 1975828282,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "minecraft:coal"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

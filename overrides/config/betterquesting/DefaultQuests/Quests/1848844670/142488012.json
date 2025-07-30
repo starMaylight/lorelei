@@ -1,0 +1,41 @@
+{
+  "preRequisites:11": [
+    1446621418
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "大容量チェストとタンク、そしてアイテムを投げ込むと勝手に倉庫に入れてくれる台を添えて。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "arcanearchives:radiant_chest"
+      },
+      "name:8": "Storage！"
+    }
+  },
+  "questID:3": 142488012,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "arcanearchives:radiant_chest"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "arcanearchives:radiant_trove",
+          "tag:10": {}
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "arcanearchives:radiant_tank"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "arcanearchives:brazier_of_hoarding"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

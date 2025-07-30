@@ -1,0 +1,71 @@
+{
+  "preRequisites:11": [
+    1891500303
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "おまえあの樽失くしたんか！？",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "botania:thirdeye"
+      },
+      "name:8": "Expert:missing たーるっ！",
+      "repeat_relative:1": 0,
+      "repeattime:3": 20000,
+      "visibility:8": "UNLOCKED"
+    }
+  },
+  "questID:3": 1117191250,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "yabba:item_barrel",
+          "tag:10": {
+            "BlockEntityTag:10": {
+              "Count:3": 1,
+              "Item:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "lorelei:hardmode_reward"
+              },
+              "Upgrades:9": {
+                "0:10": {
+                  "Count:3": 1,
+                  "Damage:2": 0,
+                  "ForgeCaps:10": {
+                    "Parent:10": {}
+                  },
+                  "Slot:1": 0,
+                  "id:8": "yabba:upgrade_creative"
+                }
+              },
+              "id:8": "yabba:item_barrel"
+            },
+            "display:10": {
+              "Lore:9": {
+                "0:8": "(+NBT)"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 45,
+          "id:8": "betterwithmods:material"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

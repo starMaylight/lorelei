@@ -1,0 +1,14 @@
+{
+	"output": {
+		"item": "wizardry:fairy_wings"
+	},
+	"input": {
+		"item": "betterwithaddons:tweakmat"
+	},
+	"extraInputs": [
+		{
+			"item":"wizardry:fairy_dust"
+		}
+	],
+	"harp": false
+}

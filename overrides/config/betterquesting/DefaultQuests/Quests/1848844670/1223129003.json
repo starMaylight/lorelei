@@ -1,0 +1,36 @@
+{
+  "preRequisites:11": [
+    961404602
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "botaniaとは違う別種のマナ。wizardryの変換レシピで利用します。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "forge:bucketfilled",
+        "tag:10": {
+          "Amount:3": 1000,
+          "FluidName:8": "mana_fluid"
+        }
+      },
+      "name:8": "マナ"
+    }
+  },
+  "questID:3": 1223129003,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forge:bucketfilled",
+          "tag:10": {
+            "Amount:3": 1000,
+            "FluidName:8": "mana_fluid"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

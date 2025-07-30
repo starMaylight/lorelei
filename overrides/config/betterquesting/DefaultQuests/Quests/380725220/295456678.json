@@ -1,0 +1,85 @@
+{
+  "preRequisites:11": [
+    515405682
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "銅と錫。基本的な金属。青銅は合金炉から。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minefantasyreforged:bar",
+        "tag:10": {
+          "mf_custom_materials:10": {
+            "main_material:8": "bronze"
+          }
+        }
+      },
+      "name:8": "Bronze",
+      "visibility:8": "CHAIN"
+    }
+  },
+  "questID:3": 295456678,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_engineering"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_artisanry"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_construction"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_combat"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_provisioning"
+        }
+      },
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:bar",
+          "tag:10": {
+            "mf_custom_materials:10": {
+              "main_material:8": "tin"
+            }
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:bar",
+          "tag:10": {
+            "mf_custom_materials:10": {
+              "main_material:8": "copper"
+            }
+          }
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:bar",
+          "tag:10": {
+            "mf_custom_materials:10": {
+              "main_material:8": "bronze"
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    880199370
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "魂鋼鉄の間違いである。",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 14,
+        "id:8": "betterwithmods:material"
+      },
+      "name:8": "鋼鉄……？"
+    }
+  },
+  "questID:3": 1186666910,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 14,
+          "id:8": "betterwithmods:material"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

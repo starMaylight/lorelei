@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    152177816
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 3,
+        "id:8": "randomthings:ingredient"
+      },
+      "name:8": "spector"
+    }
+  },
+  "questID:3": 505517154,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "randomthings:ingredient"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

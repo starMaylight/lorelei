@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1749533775
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "大量に消費する基本の中間素材です。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:divine_crystal"
+      },
+      "name:8": "Crystal!"
+    }
+  },
+  "questID:3": 659474753,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:divine_crystal"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

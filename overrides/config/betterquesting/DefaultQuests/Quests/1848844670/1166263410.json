@@ -1,0 +1,40 @@
+{
+  "preRequisites:11": [
+    650258205
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "待ちに待った倉庫modのお出迎え。魔術的倉庫なため集中管理は苦手。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "arcanearchives:lectern_manifest"
+      },
+      "name:8": "魔術物語 ~n週目~"
+    }
+  },
+  "questID:3": 1166263410,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 8,
+          "id:8": "arcanearchives:raw_quartz"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "arcanearchives:radiant_resonator"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

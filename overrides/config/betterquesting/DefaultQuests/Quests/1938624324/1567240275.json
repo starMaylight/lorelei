@@ -1,0 +1,50 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "太陽を表す花、月光を写し取る花。そして時の流れを象徴する金の葉。時計を添えて。",
+      "frame:8": "CIRCLE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:clock"
+      },
+      "name:8": "花びらと時間"
+    }
+  },
+  "questID:3": 1567240275,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 4,
+          "id:8": "sweetmagic:seedbag"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 4,
+          "id:8": "sweetmagic:sannyflower_petal"
+        },
+        "1:10": {
+          "Count:3": 4,
+          "id:8": "sweetmagic:moonblossom_petal"
+        },
+        "2:10": {
+          "Count:3": 4,
+          "id:8": "naturesaura:gold_leaf"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:clock"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

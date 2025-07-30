@@ -1,0 +1,63 @@
+{
+  "preRequisites:11": [
+    1806384780,
+    1278221163
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "難易度Expertで遊ぶ場合はこちらを選んでください。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "lorelei:hardmode_reward"
+      },
+      "name:8": "難易度選択：Expert",
+      "questlogic:8": "XOR"
+    }
+  },
+  "questID:3": 1891500303,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "yabba:item_barrel",
+          "tag:10": {
+            "BlockEntityTag:10": {
+              "Count:3": 1,
+              "Item:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "lorelei:hardmode_reward"
+              },
+              "Upgrades:9": {
+                "0:10": {
+                  "Count:3": 1,
+                  "Damage:2": 0,
+                  "ForgeCaps:10": {
+                    "Parent:10": {}
+                  },
+                  "Slot:1": 0,
+                  "id:8": "yabba:upgrade_creative"
+                }
+              },
+              "id:8": "yabba:item_barrel"
+            },
+            "display:10": {
+              "Lore:9": {
+                "0:8": "(+NBT)"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    30309313
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "鉱石なんて存在しない。つまりわかるな？",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:cosmic_crystal_shard"
+      },
+      "name:8": "異次元より。"
+    }
+  },
+  "questID:3": 867088428,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:cosmic_crystal_shard"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

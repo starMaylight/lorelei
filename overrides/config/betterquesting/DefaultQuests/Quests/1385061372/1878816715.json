@@ -1,0 +1,33 @@
+{
+  "preRequisites:11": [
+    256965222
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "２つ一組で使用する。液体またはアイテム、もしくは両方をセットし、機械側に型をセットすることでクラフトできる。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "embers:stamper"
+      },
+      "name:8": "Pr(oc)ess",
+      "visibility:8": "CHAIN"
+    }
+  },
+  "questID:3": 1878816715,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "embers:stamper_base"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "embers:stamper"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

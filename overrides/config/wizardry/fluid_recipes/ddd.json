@@ -1,0 +1,20 @@
+{
+	"output": {
+		"item": "harkenscythe:soul_soot"
+	},
+	"input": {
+		"item": "arcanearchives:radiant_dust"
+	},
+	"extraInputs": [
+		{
+			"item":"betterwithaddons:soulsand_pile"
+		},
+		{
+			"item": "wizardry:devil_dust"
+		},
+		{
+			"item": "wizardry:sky_dust"
+		}
+	],
+	"harp": false
+}

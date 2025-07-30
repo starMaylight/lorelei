@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    8691918
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "いろんな場所で見かけるかもしれない。",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 27,
+        "id:8": "betterwithmods:material"
+      },
+      "name:8": "電熱線？"
+    }
+  },
+  "questID:3": 657575183,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 27,
+          "id:8": "betterwithmods:material"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

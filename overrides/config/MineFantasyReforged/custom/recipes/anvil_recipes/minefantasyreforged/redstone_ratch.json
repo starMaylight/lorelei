@@ -1,0 +1,32 @@
+{
+    "type": "anvil_shaped_recipe",
+    "skill": "artisanry",
+    "research": "smelt_steel",
+    "tool_type": "hammer",
+    "is_tool_recipe": false,
+    "anvil_tier": 3,
+    "recipe_time": 90,
+    "recipe_hammer": 3,
+    "skill_xp": 1,
+    "vanilla_xp": 0.55,
+    "output_hot": false,
+    "pattern": [
+      " P ",
+      "PFP",
+      " P ",
+      " F "
+    ],
+    "key": {
+      "P": {
+        "item":"#HUNK_GOLD"
+      },
+      "F": {
+        "item": "extrautils2:ingredients",
+        "data":0
+      }
+    },
+    "result": {
+      "item": "betterwithmods:material",
+      "data": 34
+    }
+  }

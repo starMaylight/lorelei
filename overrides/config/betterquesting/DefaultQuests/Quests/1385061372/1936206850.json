@@ -1,0 +1,36 @@
+{
+  "preRequisites:11": [
+    256965222
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "emberを貯めることができます。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "embers:copper_cell",
+        "tag:10": {
+          "ember:6": 0.0,
+          "emberCapacity:6": 24000.0
+        }
+      },
+      "name:8": "蓄電……？"
+    }
+  },
+  "questID:3": 1936206850,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "embers:copper_cell",
+          "tag:10": {
+            "ember:6": 0.0,
+            "emberCapacity:6": 24000.0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    425330098
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "石を搬入することで手軽にsunburnt stoneを入手できる。\n\n注意：自動搬出は謎のバグで特定のパイプ以外で出来ません。検証済みの範囲ではEIOパイプ以外はダメでした。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "solar:sunburnt_chest"
+      },
+      "name:8": "日光浴"
+    }
+  },
+  "questID:3": 81962040,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "solar:sunburnt_chest"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

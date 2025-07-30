@@ -1,0 +1,116 @@
+{
+  "preRequisites:11": [
+    1784784535,
+    1142134385
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "台座を使って遊びましょう。台座を作り、アップグレードを装着します。crusher upgradeならpedestalの下から鉱石を吸って粉砕します。自動搬出はしない上に粉砕後の枠が１枠しないので、ExtractUpgradeを別の台座にはめて搬出するなどを行い常に出力が空になるようにしましょう。また、crusherには初動に石炭が必要です。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "dust:wrench",
+        "tag:10": {
+          "stored_x:3": 0,
+          "stored_y:3": -2000,
+          "stored_z:3": 0
+        }
+      },
+      "name:8": "レンチと台座と粉砕機"
+    }
+  },
+  "questID:3": 2136248199,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:enchanted_book",
+          "tag:10": {
+            "StoredEnchantments:9": {
+              "0:10": {
+                "id:3": 15,
+                "lvl:2": 5
+              }
+            }
+          }
+        }
+      }
+    },
+    "1:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:enchanted_book",
+          "tag:10": {
+            "StoredEnchantments:9": {
+              "0:10": {
+                "id:3": 12,
+                "lvl:2": 10
+              }
+            }
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:enchanted_book",
+          "tag:10": {
+            "StoredEnchantments:9": {
+              "0:10": {
+                "id:3": 14,
+                "lvl:2": 5
+              }
+            }
+          }
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:enchanted_book",
+          "tag:10": {
+            "StoredEnchantments:9": {
+              "0:10": {
+                "id:3": 15,
+                "lvl:2": 5
+              }
+            }
+          }
+        }
+      },
+      "index:3": 1,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "dust:wrench",
+          "tag:10": {
+            "stored_x:3": 0,
+            "stored_y:3": -2000,
+            "stored_z:3": 0
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "dust:upgradecrusher"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 32767,
+          "id:8": "dust:pedestal_stone"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    }
+  }
+}

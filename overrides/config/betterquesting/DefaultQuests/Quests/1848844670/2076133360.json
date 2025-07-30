@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    1948747332
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "内容量を決めるドライブです。メモリーカードは必須です。",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 5,
+        "id:8": "correlated:drive"
+      },
+      "name:8": "memory and driven"
+    }
+  },
+  "questID:3": 2076133360,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 5,
+          "id:8": "correlated:drive"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "correlated:memory"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

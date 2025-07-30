@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    189742578
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "料理用鍋のはずなのに料理以外に使用する場合が多すぎる",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "betterwithmods:cooking_pot"
+      },
+      "name:8": "鍋……？"
+    }
+  },
+  "questID:3": 8691918,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "betterwithmods:cooking_pot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

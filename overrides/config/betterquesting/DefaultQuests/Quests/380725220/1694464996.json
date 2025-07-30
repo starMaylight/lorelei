@@ -1,0 +1,72 @@
+{
+  "preRequisites:11": [
+    1021203438
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "原始的なツール。石以下。でも作らなければ話は始まらない。サッサと金属ツールに乗り換えよう。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minefantasyreforged:leather_apron",
+        "tag:10": {}
+      },
+      "name:8": "Primitive tools",
+      "visibility:8": "CHAIN"
+    }
+  },
+  "questID:3": 1694464996,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_engineering"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_artisanry"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_construction"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_combat"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_provisioning"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:stone_hammer"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:stone_knife"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:stone_tongs",
+          "tag:10": {}
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:leather_apron",
+          "tag:10": {}
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

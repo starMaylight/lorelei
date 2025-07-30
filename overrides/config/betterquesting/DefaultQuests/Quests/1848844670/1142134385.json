@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1587010743
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "crusherを作りましょう。componentをmachine baseに使用するだけで簡単に作れます。ただし、他のmodのcrusherとは違い、稼働時にdustBlockを周りに放出します。このブロックは自由落下するので機械周辺にハーフブロックや松明を敷いておきましょう。ついでに言うと落下ブロックが疑惑の判定を出すので、なるべくアイテム化しないような平らなブロックの上に落ちないようにしてください。一度落下が止まると頻繁に除去できなくなります。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "dust:crusheritems"
+      },
+      "name:8": "周囲を汚染するCrusher"
+    }
+  },
+  "questID:3": 1142134385,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "dust:crystalcrusherbasic"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

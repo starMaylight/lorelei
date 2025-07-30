@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    2136248199
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "上を歩くと加速します。早すぎて普通に制御できないのでろうかに使うような真似だけはしないでください。\n\n\n\n\n……うん？Blaze powder cloudの作り方が分からない？ほら、ちょっと前に作ったcrusherがあるじゃろ？あれにblazeRodをかけるんじゃよ。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "dust:path4"
+      },
+      "name:8": "Tooooooooooooooo Quick!!!!!!!!!!!!!!"
+    }
+  },
+  "questID:3": 650258205,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "dust:path4"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

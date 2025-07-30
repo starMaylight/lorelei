@@ -1,0 +1,37 @@
+{
+  "preRequisites:11": [
+    880519548
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "ばねとフレーム。ばねを巻き上げ、強化する。",
+      "frame:8": "CIRCLE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "clockworkphase:framework"
+      },
+      "name:8": "FrameWork Phase"
+    }
+  },
+  "questID:3": 873606056,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:framework"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:mainspring",
+          "tag:10": {
+            "max_tension:3": 0,
+            "tension_energy:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

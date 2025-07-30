@@ -1,0 +1,40 @@
+{
+  "preRequisites:11": [
+    935100995
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "鋳型のようなもの。やってることは押し型。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "embers:stamp_bar"
+      },
+      "name:8": "型！"
+    }
+  },
+  "questID:3": 350895009,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "embers:stamp_bar"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "embers:stamp_gear"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "embers:stamp_plate"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "embers:stamp_rod"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

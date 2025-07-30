@@ -1,0 +1,91 @@
+{
+  "preRequisites:11": [
+    770650873
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "赤青祭壇の青サイド\n刈り取った魂をabsorberで回収、crusibleで貯蔵、Alterで消費します。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "harkenscythe:soul_absorber"
+      },
+      "name:8": "Red \u0026 Blue"
+    }
+  },
+  "questID:3": 1523989704,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "mekanism:cardboardbox",
+          "tag:10": {
+            "mekData:10": {
+              "blockData:10": {
+                "id:3": 52,
+                "meta:3": 0,
+                "tileTag:10": {
+                  "Delay:2": 435,
+                  "ForgeCaps:10": {
+                    "abyssalcraft:itemtransfer:10": {
+                      "configurations:9": {},
+                      "isRunning:1": 0
+                    },
+                    "nuclearcraft:capability_default_radiation_resistance:10": {
+                      "radiationResistance:6": 0.0,
+                      "shieldingRadResistance:6": 0.0
+                    }
+                  },
+                  "MaxNearbyEntities:2": 6,
+                  "MaxSpawnDelay:2": 800,
+                  "MinSpawnDelay:2": 200,
+                  "RequiredPlayerRange:2": 16,
+                  "SpawnCount:2": 4,
+                  "SpawnData:10": {
+                    "id:8": "minecraft:cow"
+                  },
+                  "SpawnPotentials:9": {
+                    "0:10": {
+                      "Entity:10": {
+                        "id:8": "minecraft:cow"
+                      },
+                      "Weight:3": 1
+                    }
+                  },
+                  "SpawnRange:2": 4,
+                  "id:8": "minecraft:mob_spawner",
+                  "x:3": 400,
+                  "y:3": 4,
+                  "z:3": -1191
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "harkenscythe:soul_absorber"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "harkenscythe:soul_altar"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "harkenscythe:soul_crucible"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

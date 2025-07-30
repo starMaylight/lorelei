@@ -1,0 +1,33 @@
+{
+  "preRequisites:11": [
+    256965222
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "溶鉱炉へ鉱石をいれ、液体化します。今までとは違い自動で処理しても塊で帰ってきたりはしません！インゴット又はbarで帰ってくるのでお得です！",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "embers:block_furnace"
+      },
+      "name:8": "鉱石処理を楽に",
+      "visibility:8": "CHAIN"
+    }
+  },
+  "questID:3": 1622967549,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "embers:block_furnace"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "embers:geo_separator"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "preRequisites:11": [
+    142488012,
+    1166263410
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "{\n  \"format_version\": 2,\n  \"header\": {\n    \"description\": \"that is storage\",\n    \"name\": \"pack.name\",\n    \"uuid\": \"適当\",\n    \"min_engine_version\": [ 1, 12, 2 ],\n    \"version\": [ 1, 0, 0 ]\n  },\n  \"modules\": [\n    {\n      \"type\": \"data\",\n      \"uuid\": \"this is broken format.please report bugs.\",\n      \"version\": [ 1, 0, 0 ]\n    }\n  ]\n}",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "arcanearchives:lectern_manifest"
+      },
+      "name:8": "Manifest"
+    }
+  },
+  "questID:3": 1369431932,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "arcanearchives:lectern_manifest"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "arcanearchives:scepter_revelation"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "arcanearchives:manifest"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "preRequisites:11": [
+    659474753
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "MFで稼働する防具を作りましょう。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:magicians_pouch",
+        "tag:10": {}
+      },
+      "name:8": "防具を作る？"
+    }
+  },
+  "questID:3": 148200261,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:aether_choker",
+          "tag:10": {
+            "mf:3": 0
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:magicians_robe",
+          "tag:10": {
+            "mf:3": 0
+          }
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:magicians_pouch",
+          "tag:10": {}
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:angel_harness",
+          "tag:10": {
+            "mf:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

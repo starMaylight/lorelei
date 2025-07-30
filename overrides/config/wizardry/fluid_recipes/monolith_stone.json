@@ -1,0 +1,11 @@
+{
+	"output": {
+		"item": "abyssalcraft:monolithstone"
+	},
+	"input": {
+		"item": "solar:sunburnt",
+		"data": 8
+	},
+	"duration": 0,
+	"harp": false
+}

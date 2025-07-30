@@ -1,0 +1,30 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "ムンドゥスはしません。\n※BQの仕様上杖の指定がだいぶ面倒なので自力で作ってください。",
+      "icon:10": {
+        "Count:3": 1,
+        "ForgeCaps:10": {
+          "Parent:10": {
+            "slots:3": 2
+          }
+        },
+        "id:8": "thaumicwands:item_wand"
+      },
+      "name:8": "魔術師の伝統的な杖"
+    }
+  },
+  "questID:3": 1146757730,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 2,
+          "id:8": "thaumicwands:item_wand_cap"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

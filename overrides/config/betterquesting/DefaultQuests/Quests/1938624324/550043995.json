@@ -1,0 +1,34 @@
+{
+  "preRequisites:11": [
+    867088428
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "作れる幅が広がっていく。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:magic_book_cosmic",
+        "tag:10": {
+          "mf:3": 0
+        }
+      },
+      "name:8": "上位魔導書！"
+    }
+  },
+  "questID:3": 550043995,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:magic_book_cosmic",
+          "tag:10": {
+            "mf:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

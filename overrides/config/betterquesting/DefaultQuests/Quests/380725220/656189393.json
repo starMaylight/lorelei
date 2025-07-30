@@ -1,0 +1,75 @@
+{
+  "preRequisites:11": [
+    1033683023
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "どうせ全部使うことになる。ので全部作りましょう。詳しい説明はガイドブックを読むこと。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minefantasyreforged:bloomery"
+      },
+      "name:8": "basic forge kit",
+      "visibility:8": "CHAIN"
+    }
+  },
+  "questID:3": 656189393,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_provisioning"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_combat"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_construction"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_artisanry"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_engineering"
+        }
+      },
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:bloomery"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:quern"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:forge_stone"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 32767,
+          "id:8": "minefantasyreforged:trough_wood",
+          "tag:10": {
+            "mf_custom_materials:10": {
+              "main_material:8": "scrap_wood"
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

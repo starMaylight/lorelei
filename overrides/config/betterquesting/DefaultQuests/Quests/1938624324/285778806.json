@@ -1,0 +1,56 @@
+{
+  "preRequisites:11": [
+    659474753
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "これで面倒な作業ともおさらば！",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:mffurnace_off"
+      },
+      "name:8": "MFで動く自動機械たち"
+    }
+  },
+  "questID:3": 285778806,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 16,
+          "id:8": "sweetmagic:divine_crystal"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:mffisher"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:flyishforer"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:mfsqueezer"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:mffurnace_off"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:aether_enchanttable"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

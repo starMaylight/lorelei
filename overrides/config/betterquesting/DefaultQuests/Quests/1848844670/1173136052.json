@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    181932386
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "変換器です。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "abyssalcraft:transmutator"
+      },
+      "name:8": "Transmutation!",
+      "tasklogic:8": "NAND"
+    }
+  },
+  "questID:3": 1173136052,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:transmutator"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

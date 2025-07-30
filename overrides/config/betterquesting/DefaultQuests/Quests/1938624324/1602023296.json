@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    659474753
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "スポーン抑制に便利な明かりです。時と場合を考えて使いましょう。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:magia_lantern"
+      },
+      "name:8": "コストありメガトーチ"
+    }
+  },
+  "questID:3": 1602023296,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:magia_lantern"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    1599703988
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "鍵を作りましょう。儀式をしましょう。ゲートを抜けて世界を旅しましょう。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "abyssalcraft:gatewaykey",
+        "tag:10": {}
+      },
+      "name:8": "異世界への入り口"
+    }
+  },
+  "questID:3": 497027366,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:gatewaykey",
+          "tag:10": {}
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

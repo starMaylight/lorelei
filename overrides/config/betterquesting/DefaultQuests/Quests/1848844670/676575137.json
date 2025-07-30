@@ -1,0 +1,108 @@
+{
+  "preRequisites:11": [
+    351208054
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "ネジを巻いて耐久を回復するツールを作りましょう。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "clockworkphase:clockwork_saber",
+        "tag:10": {
+          "internal_time_sand:3": 0,
+          "max_tension:3": 0,
+          "tension_energy:3": 0
+        }
+      },
+      "name:8": "ネジマキツールズ",
+      "tasklogic:8": "OR"
+    }
+  },
+  "questID:3": 676575137,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:gear_legendary"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:precious_charm"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:mainspring",
+          "tag:10": {
+            "max_tension:3": 1000000,
+            "tension_energy:3": 0
+          }
+        }
+      },
+      "index:3": 1,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:clockwork_pickaxe",
+          "tag:10": {
+            "internal_time_sand:3": 0,
+            "max_tension:3": 0,
+            "tension_energy:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:clockwork_axe",
+          "tag:10": {
+            "internal_time_sand:3": 0,
+            "max_tension:3": 0,
+            "tension_energy:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:clockwork_shovel",
+          "tag:10": {
+            "internal_time_sand:3": 0,
+            "max_tension:3": 0,
+            "tension_energy:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "3:10": {
+      "index:3": 3,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:clockwork_saber",
+          "tag:10": {
+            "internal_time_sand:3": 0,
+            "max_tension:3": 0,
+            "tension_energy:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    872189910
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "ビームをシュバーン！",
+      "frame:8": "STAR4_ON_SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "actuallyadditions:block_atomic_reconstructor"
+      },
+      "name:8": "atomic RE:constructor"
+    }
+  },
+  "questID:3": 1869309024,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "actuallyadditions:block_atomic_reconstructor"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

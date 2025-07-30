@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1749533775
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "色々なクラフトで使います。自動化はできないかな……\nなお、使用するには台座の下にブロックが必要です。くわしくはがいどをよんでください。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:pedestal_creat"
+      },
+      "name:8": "新しいクラフト！"
+    }
+  },
+  "questID:3": 1819850452,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:pedestal_creat"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1523989704,
+    505517154
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "クリソコラ (Chrysocolla) は、和名を珪孔雀石（けいくじゃくせき）といい、青色や青緑色の美しい石です。ギリシャ語で「金」を意味する「chrysos」と、「接着剤」を意味する「kolla」に由来し、古代では金を接合するのに使われたという伝承があります(検索AIより抜粋)",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 11,
+        "id:8": "correlated:misc"
+      },
+      "name:8": "緑色の……なんだ？"
+    }
+  },
+  "questID:3": 727738301,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 11,
+          "id:8": "correlated:misc"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

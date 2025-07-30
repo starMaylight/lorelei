@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    351208054
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "右クリックでねじを巻きあげよう。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "clockworkphase:winding_box"
+      },
+      "name:8": "カミサマネジマキ"
+    }
+  },
+  "questID:3": 1325146973,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:winding_box"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

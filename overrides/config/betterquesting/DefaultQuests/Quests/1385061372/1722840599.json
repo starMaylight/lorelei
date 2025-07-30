@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    176322774
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "MM回転とBWM回転を相互変換。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "mysticalmechanics:converter_bwm"
+      },
+      "name:8": "convert!"
+    }
+  },
+  "questID:3": 1722840599,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "mysticalmechanics:converter_bwm"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

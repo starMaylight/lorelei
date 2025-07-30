@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    839033862,
+    981598
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Auraを生成しよう！木を作って植えるだけ！（葉から苗木は落ちません）",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "naturesaura:ancient_sapling"
+      },
+      "name:8": "Aura creation!"
+    }
+  },
+  "questID:3": 873422185,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "naturesaura:ancient_sapling"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "高温で処理する。金属を重ね合わせる。",
+      "frame:8": "CIRCLE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minefantasyreforged:bar",
+        "tag:10": {
+          "mf_custom_materials:10": {
+            "main_material:8": "composite_alloy"
+          }
+        }
+      },
+      "name:8": "composit alloy"
+    }
+  },
+  "questID:3": 1736730306,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:bar",
+          "tag:10": {
+            "mf_custom_materials:10": {
+              "main_material:8": "composite_alloy"
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

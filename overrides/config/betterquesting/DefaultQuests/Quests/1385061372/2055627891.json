@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    503331647
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "カッティングが便利に！機械稼働で楽をしよう。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "betterwithmods:saw"
+      },
+      "name:8": "のこのこのこのこ"
+    }
+  },
+  "questID:3": 2055627891,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterwithmods:saw"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

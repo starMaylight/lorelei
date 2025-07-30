@@ -1,0 +1,40 @@
+{
+  "preRequisites:11": [
+    873422185
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "自然の力を利用してトークンを製作しましょう。面倒な素材もレシピを見れば簡単に！",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "naturesaura:token_joy"
+      },
+      "name:8": "token"
+    }
+  },
+  "questID:3": 1838341065,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "naturesaura:token_joy"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "naturesaura:token_fear"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "naturesaura:token_anger"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "naturesaura:token_sorrow"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    181932386
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "アソラの討伐です。詳細はネクロノミコンを確認してください。儀式を行うことで召喚ができますが、ボスを召喚、討伐した時点で敵に強化が入ります。武器は最大限まで強化してから行動することをお勧めします。なお、アソラは要するに色違いのエンドラです。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "abyssalcraft:eoa"
+      },
+      "name:8": "Abyss Gazer"
+    }
+  },
+  "questID:3": 1645556661,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:eoa"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

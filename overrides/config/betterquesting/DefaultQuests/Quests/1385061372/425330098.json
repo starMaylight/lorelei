@@ -1,0 +1,54 @@
+{
+  "preRequisites:11": [
+    1290604728
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "太陽の力を注入する。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "solar:sunburnt"
+      },
+      "name:8": "金、銀、焼石"
+    }
+  },
+  "questID:3": 425330098,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:stone"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "solar:silver_ingot"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:gold_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "solar:sunburnt"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "solar:infused_gold"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "solar:infused_silver"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

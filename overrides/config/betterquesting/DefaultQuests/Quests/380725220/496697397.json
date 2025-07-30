@@ -1,0 +1,57 @@
+{
+  "preRequisites:11": [
+    634663555
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Minefantasy Reforgedで使用する作業台です。ツールでトンテンカンテンします。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minefantasyreforged:carpenter_bench"
+      },
+      "name:8": "作業……台？",
+      "visibility:8": "CHAIN"
+    }
+  },
+  "questID:3": 496697397,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_engineering"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_artisanry"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_construction"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_combat"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:skillbook_provisioning"
+        }
+      },
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:carpenter_bench"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "anvil_shaped_recipe",
+    "skill": "engineering",
+    "research": "smelt_steel",
+    "tool_type": "hammer",
+    "is_tool_recipe": false,
+    "anvil_tier": 3,
+    "recipe_time": 90,
+    "recipe_hammer": 2,
+    "skill_xp": 1,
+    "vanilla_xp": 0.55,
+    "output_hot": false,
+    "pattern": [
+      " P ",
+      "PFP",
+      " P ",
+      "   "
+    ],
+    "key": {
+      "P": {
+        "item":"#HUNK_GOLD"
+      },
+      "F": {
+        "item": "minecraft:quartz"
+      }
+    },
+    "result": {
+      "item": "minecraft:clock"
+    }
+  }

@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1344069057
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "真鍮を作りましょう。",
+      "frame:8": "DIAMOND",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 2,
+        "id:8": "thaumcraft:ingot"
+      },
+      "name:8": "Brass?"
+    }
+  },
+  "questID:3": 880519548,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "OreDict:8": "ingotBrass",
+          "id:8": "clockworkphase:brass_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

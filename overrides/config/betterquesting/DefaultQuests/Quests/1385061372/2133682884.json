@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    401523050
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "液体とかポーションとか。色々詰めよう！",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:glass_bottle"
+      },
+      "name:8": "Bottled"
+    }
+  },
+  "questID:3": 2133682884,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:glass_bottle"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

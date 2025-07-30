@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    503331647
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "回転力でプッシュプッシュ",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "betterwithmods:bellows"
+      },
+      "name:8": "鞴"
+    }
+  },
+  "questID:3": 1866038496,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterwithmods:bellows"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

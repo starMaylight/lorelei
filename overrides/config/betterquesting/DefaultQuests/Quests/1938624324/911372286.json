@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    980687325
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "最後へGo！",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:altar_creation_star"
+      },
+      "name:8": "星を創る"
+    }
+  },
+  "questID:3": 911372286,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:altar_creation_star"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

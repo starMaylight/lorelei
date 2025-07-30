@@ -1,0 +1,33 @@
+{
+  "preRequisites:11": [
+    676575137
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "使い込むほど記憶を、時間をため込むツールたち。その力を開放すれば、能力は跳ね上がる。そしてその力を適切な対象に向ければ変化は起こるだろう。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "clockworkphase:temporal_clockwork_saber",
+        "tag:10": {
+          "internal_time_sand:3": 0,
+          "max_tension:3": 0,
+          "tension_energy:3": 0
+        }
+      },
+      "name:8": "Time To Rock"
+    }
+  },
+  "questID:3": 645723031,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "clockworkphase:ingot_temporal"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

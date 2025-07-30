@@ -1,0 +1,75 @@
+{
+  "preRequisites:11": [
+    2118244681
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "鋼鉄を食え！",
+      "frame:8": "DIAMOND",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minefantasyreforged:bar",
+        "tag:10": {
+          "mf_custom_materials:10": {
+            "main_material:8": "steel"
+          }
+        }
+      },
+      "name:8": "steeeeeeeeeeeeeeeeeeeeeeeeeeeeel!",
+      "visibility:8": "CHAIN"
+    }
+  },
+  "questID:3": 1568980741,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 16,
+          "id:8": "minefantasyreforged:bar",
+          "tag:10": {
+            "mf_custom_materials:10": {
+              "main_material:8": "steel"
+            }
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:blast_heater"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:blast_chamber"
+        },
+        "2:10": {
+          "Count:3": 8,
+          "id:8": "minefantasyreforged:firebricks"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minefantasyreforged:bar",
+          "tag:10": {
+            "mf_custom_materials:10": {
+              "main_material:8": "steel"
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

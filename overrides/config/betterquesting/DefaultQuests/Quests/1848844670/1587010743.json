@@ -1,0 +1,33 @@
+{
+  "preRequisites:11": [
+    1505705823
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "インベントリに入れた瞬間に耐久が減るので注意",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "wizardry:levitation_orb"
+      },
+      "name:8": "levitation orb"
+    }
+  },
+  "questID:3": 1587010743,
+  "tasks:9": {
+    "0:10": {
+      "entryLogic:8": "OR",
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "wizardry:levitation_orb"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "dust:crystalcluster"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

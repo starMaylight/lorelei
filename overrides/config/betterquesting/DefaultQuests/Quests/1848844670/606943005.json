@@ -1,0 +1,40 @@
+{
+  "preRequisites:11": [
+    1299619860
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "ガイドブックを見ながら進めよう。まずはガイドを見ながらストラクチャを2種組み立てます。その後、テーブルで魔法の構成を組み、ガイドにセーブします。その後、ストラクチャにガイドに表示されたとおりにアイテムを入れて作ります。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "wizardry:magicians_worktable"
+      },
+      "name:8": "魔法を使うには"
+    }
+  },
+  "questID:3": 606943005,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "wizardry:crafting_plate"
+        },
+        "1:10": {
+          "Count:3": 8,
+          "id:8": "wizardry:pearl_holder"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "wizardry:magicians_worktable"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "wizardry:mana_battery"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

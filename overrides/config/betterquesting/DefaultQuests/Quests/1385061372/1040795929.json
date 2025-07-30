@@ -1,0 +1,57 @@
+{
+  "preRequisites:11": [
+    935100995
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Embersのハンマーで受容器をシフト右、その後放出器を右クリックで接続。エンバー輸送には放出に赤石信号が必要。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "embers:caminite_lever"
+      },
+      "name:8": "Ember I/O",
+      "visibility:8": "CHAIN"
+    }
+  },
+  "questID:3": 1040795929,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 16,
+          "id:8": "embers:caminite_lever"
+        },
+        "1:10": {
+          "Count:3": 2,
+          "id:8": "embers:ember_emitter"
+        },
+        "2:10": {
+          "Count:3": 2,
+          "id:8": "embers:ember_receiver"
+        }
+      },
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "embers:caminite_lever"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "embers:ember_emitter"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "embers:ember_receiver"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

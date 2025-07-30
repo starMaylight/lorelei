@@ -1,0 +1,65 @@
+{
+  "preRequisites:11": [
+    1806384780,
+    1891500303
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "難易度ノーマルを選択する場合はこちらをクリアしてください。バレルのテクスチャが存在しないのはバグです。直し方もわかってはいますが原因を抜くことができないので諦めてください。",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "storagedrawers:upgrade_creative"
+      },
+      "name:8": "難易度選択：normal",
+      "questlogic:8": "XOR",
+      "tasklogic:8": "XOR"
+    }
+  },
+  "questID:3": 1278221163,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "yabba:item_barrel",
+          "tag:10": {
+            "BlockEntityTag:10": {
+              "Count:3": 1,
+              "Item:10": {
+                "Count:3": 1,
+                "Damage:2": 1,
+                "id:8": "storagedrawers:upgrade_creative"
+              },
+              "Upgrades:9": {
+                "0:10": {
+                  "Count:3": 1,
+                  "Damage:2": 0,
+                  "ForgeCaps:10": {
+                    "Parent:10": {}
+                  },
+                  "Slot:1": 0,
+                  "id:8": "yabba:upgrade_creative"
+                }
+              },
+              "id:8": "yabba:item_barrel"
+            },
+            "display:10": {
+              "Lore:9": {
+                "0:8": "(+NBT)"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

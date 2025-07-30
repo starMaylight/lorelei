@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1223129003
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "魔術の影響を色濃く受けた樹木です。wizardryの祭壇などに使います。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "wizardry:wisdom_sapling"
+      },
+      "name:8": "wisdom wood"
+    }
+  },
+  "questID:3": 392201693,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "wizardry:wisdom_sapling"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

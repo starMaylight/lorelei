@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    2116834925
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "魔法を組み立てましょう。オブマギアでは素材を使用して魔法を製作できます。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sweetmagic:alt_table_bottom"
+      },
+      "name:8": "Spell construct"
+    }
+  },
+  "questID:3": 610790244,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sweetmagic:alt_table_bottom"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

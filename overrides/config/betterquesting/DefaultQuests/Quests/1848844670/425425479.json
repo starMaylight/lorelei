@@ -1,0 +1,64 @@
+{
+  "preRequisites:11": [
+    468000126
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "本来ならスタチューをショゴスから集めなければいけません。が、この環境でショゴスとなんてやってられないので全スタチュー１つずつ配布します。追加が欲しい場合のみショゴスのもとにいってください",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "abyssalcraft:nyarlathotepstatue"
+      },
+      "name:8": "逃げるは恥だが役に立つ"
+    }
+  },
+  "questID:3": 425425479,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:yogsothothstatue"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:jzaharstatue"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:cthulhustatue"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:shubniggurathstatue"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:hasturstatue"
+        },
+        "5:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:azathothstatue"
+        },
+        "6:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:nyarlathotepstatue"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 64,
+          "id:8": "abyssalcraft:monolithstone"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

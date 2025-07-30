@@ -1,0 +1,37 @@
+{
+  "preRequisites:11": [
+    614659749,
+    425425479
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "触媒を作りましょう。触媒とか言ってるくせに杖の先端に取り付けられてしまうやつです。JEIや説明書をよく読んで進めましょうね。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "abyssalcraft:oblivionshard"
+      },
+      "name:8": "OBLIVION"
+    }
+  },
+  "questID:3": 1599703988,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:transmutationgem"
+        },
+        "1:10": {
+          "Count:3": 4,
+          "id:8": "abyssalcraft:oblivionshard"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:oc"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

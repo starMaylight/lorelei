@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1098414091
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "儀式に必須のスタンド。８つ必要。詳しくはガイド見てね",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "naturesaura:wood_stand"
+      },
+      "name:8": "stand?"
+    }
+  },
+  "questID:3": 981598,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 8,
+          "id:8": "naturesaura:wood_stand"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

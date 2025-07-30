@@ -1,0 +1,34 @@
+{
+  "preRequisites:11": [
+    229847714
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Abyssalcraftの説明書であり、最初の扉でもある。ロノ。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "abyssalcraft:necronomicon",
+        "tag:10": {
+          "PotEnergy:5": 0.0
+        }
+      },
+      "name:8": "ネクノロミコン"
+    }
+  },
+  "questID:3": 468000126,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "abyssalcraft:necronomicon",
+          "tag:10": {
+            "PotEnergy:5": 0.0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

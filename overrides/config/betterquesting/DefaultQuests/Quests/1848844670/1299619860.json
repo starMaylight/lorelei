@@ -1,0 +1,37 @@
+{
+  "preRequisites:11": [
+    392201693
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "飾り気のないs……天使の輪、偉大な魔術師を模したケープ、そしてドーピング剤。\n……違法魔法使いにでもなるつもりなのだろうか。",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "wizardry:halo_fake"
+      },
+      "name:8": "簡単魔術キット"
+    }
+  },
+  "questID:3": 1299619860,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "wizardry:halo_fake"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "wizardry:cape"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "wizardry:syringe"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}
