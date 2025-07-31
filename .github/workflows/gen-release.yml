@@ -25,8 +25,6 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: 20
-    - name: リポジトリのshに権限を付与
-      run: chmod +x ./internal/gen-pack.sh  
       
     - name: リポジトリをチェックアウト
       uses: actions/checkout@v4
@@ -69,6 +67,9 @@ jobs:
         git tag -a ${{ steps.get-version.outputs.version }} -m 'パックバージョン${{ steps.get-version.outputs.version }}'
         git push
     
+    - name: gen-pack.sh に実行権限を付与
+      run: chmod +x ./internal/gen-pack.sh
+
     - name: パックを生成
       id: gen-pack
       run: |
