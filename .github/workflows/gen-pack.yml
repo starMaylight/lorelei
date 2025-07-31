@@ -12,6 +12,9 @@ jobs:
     steps:
     - name: リポジトリをチェックアウト
       uses: actions/checkout@v4
+      
+    - name: リポジトリのshに権限を付与
+      run: chmod +x ./internal/gen-pack.sh  
 
     - name: パックを生成
       id: gen-pack
