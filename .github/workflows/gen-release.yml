@@ -25,7 +25,9 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: 20
-    
+    - name: リポジトリのshに権限を付与
+      run: chmod +x ./internal/gen-pack.sh  
+      
     - name: リポジトリをチェックアウト
       uses: actions/checkout@v4
     
