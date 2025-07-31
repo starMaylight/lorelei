@@ -27,7 +27,7 @@ cp manifest.json packtmp/
 
 echoerr packtmp/overridesディレクトリを構築
 mkdir packtmp/overrides/
-cp -r config/ kubejs/ multiblocked/ mods/ packtmp/overrides/
+cp -r config/ fancymenu_data/ groovy/ scripts/ mods/ packtmp/overrides/
 
 echoerr 既存のpackディレクトリを削除
 rm -rf pack/ || true
